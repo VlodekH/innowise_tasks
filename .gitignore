@@ -8,4 +8,4 @@ __pycache__/
 .mypy_cache/
 .env
 data/*.db
-!data/.gitkeep
+!01/data/.gitkeep
