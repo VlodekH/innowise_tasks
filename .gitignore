@@ -9,3 +9,4 @@ __pycache__/
 .env
 data/*.db
 !01/data/.gitkeep
+p.py
