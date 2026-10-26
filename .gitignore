@@ -11,3 +11,5 @@ data/*.db
 !01/data/.gitkeep
 p.py
 .copilot
+*.log
+logs/
